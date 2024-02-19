@@ -21,21 +21,3 @@ button {
 button:hover {
   opacity: 90%;
 }
-.locations {
-  height: 100%;
-  width: 25%;
-  border-right: 1px solid #dddddd;
-  
-}
-.amenities {
-  height: 100%;
-  width: 25%;
-  border-right: 1px solid #dddddd;
-}
-h3 {
-  font-weight: 600;
-}
-h4 {
-  font-weight: 400;
-  font-size: 14px;
-}
